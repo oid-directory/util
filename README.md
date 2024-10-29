@@ -1,2 +1,3 @@
 # util
-Assorted utilities an scripts
+
+Assorted utilities and scripts pertaining to the OID Directory I-D.
